@@ -1,0 +1,9 @@
+pandas==2.0.3
+nltk==3.8.1
+seaborn==0.12.2
+torch==2.1.2+cpu
+tensorflow==2.15.0
+transformers==4.32.1
+tqdm==4.65.0
+scipy==1.11.1
+streamlit==1.29.0
